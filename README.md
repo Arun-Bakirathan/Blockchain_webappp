@@ -1,6 +1,6 @@
-# Pickle App Frontend
+# simple web application that connect the metamask account and shows the balance
 
-Written from scratch, this will allow people to interact with the Pickle Protocol.
+images/Screenshot (89).png
 
 https://app.pickle.finance
 
