@@ -1,6 +1,6 @@
-# simple web application that connect the metamask account and shows the balance
+# SOLULAB PRACTICLE ASSIGNMENT -- simple web application that connect the metamask account and shows the balance
 
-# Here i added some output of this projects as screenshots
+# Here I added some output of this projects as screenshots
 
 ## Here the dashboard on top right there is button **connect wallet** click that
 ![Screenshot (89)](https://user-images.githubusercontent.com/68496694/114865686-3cb39700-9e10-11eb-91c6-db7dc5bcbc15.png)
