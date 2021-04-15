@@ -22,5 +22,5 @@
 
 
 ## The account shown in top right corner with all account deatails below.
-![Screenshot (93)](https://user-images.githubusercontent.com/68496694/114866996-e2b3d100-9e11-11eb-89f1-ad091540bcf2.png)
+![Screenshot (94)](https://user-images.githubusercontent.com/68496694/114868967-1abc1380-9e14-11eb-927e-9a16523a6f7d.png)
 
