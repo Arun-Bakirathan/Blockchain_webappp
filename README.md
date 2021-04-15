@@ -1,2 +1,14 @@
-# Blockchain_webappp
-simple web app that connects with user's metamask wallet and display's all NFTs users hold in his wallet
+# Pickle App Frontend
+
+Written from scratch, this will allow people to interact with the Pickle Protocol.
+
+https://app.pickle.finance
+
+## Development
+
+This project uses [next-js](https://nextjs.org/) behind the scenes.
+
+```
+yarn
+yarn dev
+```
